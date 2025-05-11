@@ -1,2 +1,3 @@
 Hello from EC2
 2nd line Hello from EC2
+3rd line Hello from EC2
